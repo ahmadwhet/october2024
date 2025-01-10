@@ -21,4 +21,4 @@ jsonfile.writeFile(path, data, () => {
 });
 };
 
-makeCommits(300);
+makeCommits(100);
